@@ -169,4 +169,3 @@ Thumbs.db
 
 # Ollama
 ollama-capabilities/models/
-basic_chat.py
