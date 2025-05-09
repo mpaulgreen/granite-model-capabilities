@@ -12,3 +12,4 @@ ollama serve & # When using granite3.3:8b
     - Thinking capabilities
     - Function calling
     - RAG use case using a local embedding model
+- [Agentic app using CrewAI and ollama/llama3.1](https://github.com/mpaulgreen/agent_crewai-ollama/blob/main/output.md)
