@@ -7,6 +7,7 @@ ollama serve & # When using granite3.3:8b
 - Text Translation
 - Text Extraction
 - Text Summarization
+- Control response length
 - Advanced Use Case
     - Thinking capabilities
     - Function calling
